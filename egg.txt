@@ -1,0 +1,5 @@
+EEEE   GGG    GGG    OOO   
+E     G      G      O   O  
+EEE   G  GG  G  GG  O   O  
+E     G   G  G   G  O   O  
+EEEE   GGG    GGG    OOO   

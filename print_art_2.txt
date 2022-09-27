@@ -1,0 +1,5 @@
+H  H  EEEE  L     L      OOO       W     W   OOO   RRRR   L     DDD   
+H  H  E     L     L     O   O      W     W  O   O  R   R  L     D  D  
+HHHH  EEE   L     L     O   O      W  W  W  O   O  RRRR   L     D  D  
+H  H  E     L     L     O   O       W W W   O   O  R R    L     D  D  
+H  H  EEEE  LLLL  LLLL   OOO         W W     OOO   R  RR  LLLL  DDD   
